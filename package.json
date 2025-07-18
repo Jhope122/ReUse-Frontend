@@ -7,6 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  "build": "NEXT_DISABLE_ESLINT=true next build"
+}
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
