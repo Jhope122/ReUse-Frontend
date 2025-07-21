@@ -32,6 +32,9 @@ export default function Header() {
            <Link href="/avaliacao" className="hover:text-green-200">
             Avaliação
           </Link>
+          <Link href="/login" className="hover:text-green-200">
+           Login
+          </Link>
         </nav>
 
         <button
